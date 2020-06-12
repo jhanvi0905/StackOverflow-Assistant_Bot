@@ -22,5 +22,7 @@ P.S- The work is submitted as the final project under the Coursera course of Nat
 
 Username of the bot- @StackOverflowJAbot
 
+![Instance of Running bot](https://github.com/jhanvi0905/StackOverflow-Assistant_Bot/blob/master/running_bot_telegram.png?raw=true)
+
 
 
