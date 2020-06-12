@@ -16,4 +16,6 @@ The threads are ranked on the basis of starspace embeddings trained previously o
 
 Deploying of the Bot-
 
-The bot is deployed on telegram. The backend is running on the Ubuntu EC2 instance on the AWS server (free tier services). An instance of conversation is present in the repository as the image.
+The bot is deployed on telegram. The backend is running on the Ubuntu EC2 instance on the AWS server (free tier services). 
+
+P.S- The work is submitted as the final project under the Coursera course of Natural Language Processing in the Advanced Machine Learning Specialization by Higher School of Economics.
