@@ -20,3 +20,5 @@ The bot is deployed on telegram. The backend is running on the Ubuntu EC2 instan
 
 P.S- The work is submitted as the final project under the Coursera course of Natural Language Processing in the Advanced Machine Learning Specialization by Higher School of Economics.
 
+Username of the bot- @StackOverflowJAbot
+
